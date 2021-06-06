@@ -1,0 +1,17 @@
+{
+  "name": "todo-list-application",
+  "version": "1.0.0",
+  "description": "To-do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simarjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "yargs": "^17.0.1"
+  }
+}
